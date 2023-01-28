@@ -6,6 +6,8 @@ Prepare AI-900 with YC
 
 - [Microsoft Certified: AI-900-Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/) - Microsoft Learn
 
+- [Getting Started with AI and Machine Learning](https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine-learning) - LinkedIn Learning
+
 - [Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals) - Microsoft (Coursera)
 
 # Microsoft Azure Certification Path
