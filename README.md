@@ -23,20 +23,20 @@ Prepare AI-900 with YC
 <p><img align="center" src="https://github.com/msandfor/ai-fundamentals/blob/main/assets/machine-learning-algorithm-cheat-sheet.svg" alt="Community photo"></p>
 <p align="center"></p>
 
-### Microsoft Certified: AI-900-Azure AI Fundamentals Docs (Microsoft Learn)
+# Microsoft Certified: AI-900-Azure AI Fundamentals Docs (Microsoft Learn)
 
-1. [Describe AI workloads and considerations (15-20%)](1%20-%20Describe%20AI%20workloads%20and%20considerations%20(15-20%25).md)
+<!-- 1. [Describe AI workloads and considerations (15-20%)](1%20-%20Describe%20AI%20workloads%20and%20considerations%20(15-20%25).md)
 2. [Describe fundamental principles of machine learning on Azure (30-35%)](2%20-%20Describe%20fundamental%20principles%20of%20machine%20learning%20on%20Azure%20(30-35%25).md)
 3. [Describe features of computer vision workloads on Azure (15-20%)](3%20-%20Describe%20features%20of%20computer%20vision%20workloads%20on%20Azure%20(15-20%25).md)
 4. [Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)](4%20-%20Describe%20features%20of%20Natural%20Language%20Processing%20(NLP)%20workloads%20on%20Azure%20(15-20%25).md)
-5. [Describe features of conversational AI workloads on Azure (15-20%)](5%20-%20Describe%20features%20of%20conversational%20AI%20workloads%20on%20Azure%20(15-20%25).md)
+5. [Describe features of conversational AI workloads on Azure (15-20%)](5%20-%20Describe%20features%20of%20conversational%20AI%20workloads%20on%20Azure%20(15-20%25).md) -->
 
 
 ## Table of Contents
 - [AI-900-Azure-AI-Fundamentals](#ai-900-azure-ai-fundamentals)
 - [Microsoft Azure Courses](#microsoft-azure-courses)
   - [Azure AI-ML Algorithm CheeatSheet](#azure-ai-ml-algorithm-cheeatsheet)
-    - [Microsoft Certified: AI-900-Azure AI Fundamentals Docs (Microsoft Learn)](#microsoft-certified-ai-900-azure-ai-fundamentals-docs-microsoft-learn)
+- [Microsoft Certified: AI-900-Azure AI Fundamentals Docs (Microsoft Learn)](#microsoft-certified-ai-900-azure-ai-fundamentals-docs-microsoft-learn)
   - [Table of Contents](#table-of-contents)
 - [Resources](#resources)
   - [Exam Rubric / Scoring Guide](#exam-rubric--scoring-guide)
