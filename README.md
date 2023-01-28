@@ -20,7 +20,7 @@ Prepare AI-900 with YC
 
 ## Azure AI-ML Algorithm CheeatSheet
 
-<p><img align="center" src="https://github.com/msandfor/ai-fundamentals/blob/main/assets/machine-learning-algorithm-cheat-sheet.svg" alt="Community photo"></p>
+<p><img align="center" src="https://github.com/YatharthChauhan2362/ai-fundamentals/blob/main/assets/machine-learning-algorithm-cheat-sheet.svg" alt="Community photo"></p>
 <p align="center"></p>
 
 # Microsoft Certified: AI-900-Azure AI Fundamentals Docs (Microsoft Learn)
@@ -66,27 +66,27 @@ Prepare AI-900 with YC
 
 
 ## Describe Artificial Intelligence workloads and considerations (15-20%)
-[Click here for My Notes on AI Workloads](https://github.com/msandfor/ai-fundamentals/blob/main/Workloads.md)
+[Click here for My Notes on AI Workloads](https://github.com/YatharthChauhan2362/ai-fundamentals/blob/main/Workloads.md)
 
 
 ## Describe fundamental principles of machine learning on Azure (30-35%)
 
-[Click here for My Notes on AI Principles](https://github.com/msandfor/ai-fundamentals/blob/main/principles.md)
+[Click here for My Notes on AI Principles](https://github.com/YatharthChauhan2362/ai-fundamentals/blob/main/principles.md)
 
 ## Describe features of computer vision workloads on Azure (15-20%)
-[Click here for My Notes on Computer Vision](https://github.com/msandfor/ai-fundamentals/blob/main/vision.md)
+[Click here for My Notes on Computer Vision](https://github.com/YatharthChauhan2362/ai-fundamentals/blob/main/vision.md)
 
 ## Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
-[Click here for My Notes on NLP workloads](https://github.com/msandfor/ai-fundamentals/blob/main/nlp.md)
+[Click here for My Notes on NLP workloads](https://github.com/YatharthChauhan2362/ai-fundamentals/blob/main/nlp.md)
 
 
 ## Describe features of conversational AI workloads on Azure (15-20%)
 
-[Click here for My Notes on Conversational AI workloads](https://github.com/msandfor/ai-fundamentals/blob/main/conversational.md)
+[Click here for My Notes on Conversational AI workloads](https://github.com/YatharthChauhan2362/ai-fundamentals/blob/main/conversational.md)
    
 
 If you liked this repo, give it a :star: and head over to:
-[AI-100: Designing and Implementing an Azure AI Solution Study Notes](https://github.com/msandfor/AI-100/blob/main/README.md)
+[AZ-900: Azure Fundamentals](https://github.com/YatharthChauhan2362/AZ-900-Microsoft-Azure-Fundamentals#readme)
 
 
 
