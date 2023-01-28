@@ -16,6 +16,8 @@ Prepare AI-900 with YC
 
 - [Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals) - Microsoft (Coursera)
 
+- [AI-900 Practice Questions](https://www.youtube.com/watch?v=TYkIX0cG3gU&t=246s) - Youtube
+
 # Microsoft Azure Certification Path
 
 ![microsoft-azure-certification-path](https://user-images.githubusercontent.com/75237577/190328320-7c668850-b8ea-4e29-806d-8a0f43711571.png)
