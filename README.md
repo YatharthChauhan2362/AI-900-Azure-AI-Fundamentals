@@ -6,7 +6,13 @@ Prepare AI-900 with YC
 
 - [Microsoft Certified: AI-900-Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/) - Microsoft Learn
 
-- [Getting Started with AI and Machine Learning](https://www.linkedin.com/learning/paths/getting-started-with-ai-and-machine-learning) - LinkedIn Learning
+- [Azure AI Fundamentals (AI-900) Cert Prep: 1 Conversational AI on Azure](https://www.linkedin.com/learning/azure-ai-fundamentals-ai-900-cert-prep-1-conversational-ai-on-azure) - LinkedIn Learning
+
+- [Azure AI Fundamentals (AI-900) Cert Prep: 2 Principles of Machine Learning on Azure](https://www.linkedin.com/learning/azure-ai-fundamentals-ai-900-cert-prep-2-principles-of-machine-learning-on-azure) - LinkedIn Learning
+
+- [Azure AI Fundamentals (AI-900) Cert Prep: 3 Computer Vision Workloads on Azure](https://www.linkedin.com/learning/azure-ai-fundamentals-ai-900-cert-prep-3-computer-vision-workloads-on-azure) - LinkedIn Learning
+
+- [Exam Tips: Microsoft Azure AI Fundamentals (AI-900)](https://www.linkedin.com/learning/exam-tips-microsoft-azure-ai-fundamentals-ai-900) - LinkedIn Learning
 
 - [Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals) - Microsoft (Coursera)
 
